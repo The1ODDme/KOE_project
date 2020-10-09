@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+main{
+	font-family: 'Amatic SC', cursive;
+	font-size:25px;
+}
+body{
+	background-image: url(fon.png) fixed;
+}
+.logo{
+	position: absolute;
+}
+.st{
+	margin-top:40px;
+	background-color: white ;
+	margin-top: 60px;
+	border: 2px solid black;
+	margin: 0 auto;
+	width:990px;
+}
+.navigate{
+	margin: 2%;
+}
+.navigation{
+	margin-bottom: 60px;
+	background-color: black;
+	color:white;
+	width: 700px;
+	text-align: center;
+	margin: 0 auto;
+	height: 50px;
+	font-size: 35px;
+}
+.categories{
+	margin-top: 60px;
+	border:2px solid black;
+	width:100px;
+	float:left;
+	color:white;
+	background-color: black;
+}
+.store{
+	width:1000px; 
+	height: 1000px;
+	margin: 0 auto;
+}
+.floor1{
+	margin: 0 auto;
+	width: 1000px;
+}
+.product1{
+	padding-left:25px;
+}
+.product2{
+	padding-left:25px; 
+}
+.product3{
+	padding-left:25px; 
+}
+.product4{
+	padding-left:25px;
+}
+.product5{
+	padding-left:25px;
+}
