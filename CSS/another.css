@@ -3,6 +3,9 @@ main{
 	font-family: 'Amatic SC', cursive;
 	font-size:25px;
 }
+body{
+	background: url(fon.jpg) fixed;
+}
 .logo{
 	position: absolute;
 	border: 5px solid black;
@@ -21,6 +24,7 @@ main{
 	height: 50px;
 	font-size: 35px;
 	margin-bottom: 20px;
+	background: linear-gradient(197deg, rgba(0,0,0,1) 15%, rgba(20,68,238,1) 95%);
 }
 .categories{
 	margin-top: 60px;
@@ -29,6 +33,7 @@ main{
 	float:left;
 	color:white;
 	background-color: black;
+	background: linear-gradient(197deg, rgba(0,0,0,1) 15%, rgba(20,68,238,1) 95%);
 }
 .textform{
 	

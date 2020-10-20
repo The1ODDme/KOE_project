@@ -4,7 +4,7 @@ main{
 	font-size:25px;
 }
 body{
-	background-image: url(fon.png) fixed;
+	background-image: url(bg_image.png) fixed;
 }
 .logo{
 	position: absolute;
@@ -31,6 +31,7 @@ body{
 	height: 50px;
 	font-size: 35px;
 	margin-bottom: 20px;
+	background: linear-gradient(197deg, rgba(0,0,0,1) 15%, rgba(20,68,238,1) 95%);
 }
 .categories{
 	margin-top: 60px;
@@ -39,6 +40,7 @@ body{
 	float:left;
 	color:white;
 	background-color: black;
+	background: linear-gradient(197deg, rgba(0,0,0,1) 15%, rgba(20,68,238,1) 95%);
 }
 .store{
 	width:1000px; 
